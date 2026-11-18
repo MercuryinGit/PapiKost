@@ -1,0 +1,8 @@
+@extends('layouts.app')
+
+@section('content')
+<div class="container">
+    <h1>Dashboard Peserta</h1>
+    <p>Selamat datang di Dashboard PapiKost.</p>
+</div>
+@endsection
